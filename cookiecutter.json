@@ -5,5 +5,5 @@
   "project_description": "",
   "docker_image_name": "{{ cookiecutter.project_slug.lower() }}",
   "docker_user": "{{ cookiecutter.project_slug.lower().replace('-', '_') }}_user",
-  "version": "0.1.0"
+  "version": "0.0.1"
 }
