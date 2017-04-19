@@ -22,4 +22,4 @@ WORKDIR /opt/{{cookiecutter.project_slug}}/
 COPY . /opt/{{cookiecutter.project_slug}}/
 RUN pip install -e .
 
-USER zephyr_user
+USER {{cookiecutter.docker_user}}
