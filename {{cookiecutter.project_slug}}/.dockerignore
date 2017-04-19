@@ -1,0 +1,28 @@
+# docker
+Dockerfile
+Dockerfiles/
+docker-compose.yml
+
+# git
+.git
+.gitignore
+
+# make
+Makefile
+
+# python
+.cache
+.coverage*
+.python-version
+*.in
+
+# OSX
+.DS_Store
+
+# Sublime
+*.sublime-*
+
+# Visual Studio Code
+.vscode
+
+# Project specific
