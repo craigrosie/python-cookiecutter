@@ -11,6 +11,8 @@ docker-compose.yml
 Makefile
 
 # python
+**/*.pyc
+**/__pycache__
 .cache
 .coverage*
 .python-version
